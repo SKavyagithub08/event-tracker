@@ -10,7 +10,7 @@ function Navbar() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0">
-              <span className="text-xl font-bold text-indigo-600">EventTracker</span>
+              <span className="text-xl font-bold text-indigo-600">St.Josephs's Events!</span>
             </Link>
           </div>
           <div className="flex items-center">
